@@ -6,7 +6,7 @@ import { twMerge } from "tailwind-merge";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AI SEO Landing Page",
+  title: "AI SEO | J2 DevStudio",
   description: "Be Visible. Be Found. Be Profitable.",
 };
 
