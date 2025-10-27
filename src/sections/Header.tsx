@@ -16,7 +16,7 @@ export const Header = () => {
           <div className="hidden md:block">
             <nav className="flex gap-8 text-sm">
               <a
-                href="#"
+                href="#productFeatures"
                 className=" text-white/70 hover:text-white transition"
               >
                 Features
