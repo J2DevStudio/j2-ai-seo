@@ -47,9 +47,15 @@ export const Footer = () => {
           </nav>
 
           <div className="flex gap-7 lg:flex-1 lg:justify-end">
-            <XSocial className="text-white/40 hover:text-white transition" />
-            <InstaSocial className="text-white/40 hover:text-white transition" />
-            <YTSocial className="text-white/40 hover:text-white transition" />
+            <a href="https://x.com/j2devstudio">
+              <XSocial className="text-white/40 hover:text-white transition" />
+            </a>
+            <a href="https://www.facebook.com/J2DevStudio/">
+              <InstaSocial className="text-white/40 hover:text-white transition" />
+            </a>
+            <a href="https://www.youtube.com/@j2devstudio">
+              <YTSocial className="text-white/40 hover:text-white transition" />
+            </a>
           </div>
         </div>
       </div>
